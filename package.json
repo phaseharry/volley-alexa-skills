@@ -1,0 +1,17 @@
+{
+  "name": "volley-game",
+  "version": "1.0.0",
+  "description": "volley alexa skills assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "volley"
+  ],
+  "author": "Harry Chen",
+  "license": "MIT",
+  "dependencies": {
+    "ask-sdk": "^2.5.1"
+  }
+}
